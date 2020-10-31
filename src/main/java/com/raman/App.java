@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello from auto trigger 1" );
+        System.out.println( "Hello from auto trigger 2" );
     }
 }
