@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello From Maven and Github" );
+        System.out.println( "Hello From Singleshot Maven" );
     }
 }
