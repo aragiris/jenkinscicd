@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Automating the process in New Maven Project" );
+        System.out.println( "New Maven Project" );
     }
 }
